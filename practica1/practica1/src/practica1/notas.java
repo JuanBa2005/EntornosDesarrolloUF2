@@ -123,7 +123,7 @@ public class notas {
 		System.out.println(" acumulado 2 = " + acu2);
 		System.out.println(" acumulado 3 = " + acu3);
 
-		System.out.println(" nota definitiva es = " + def);
+		System.out.println(" nota definitiva es = " + def + ".");
 
 	}
 
